@@ -5,5 +5,4 @@ Com o JPanelArredondado, você poderá criar seus paineis com um design mais ele
 ![Capturar](https://user-images.githubusercontent.com/47366440/147364452-33ae9424-58ff-42d2-b19d-4069a8b97cec.PNG)
 
 # Resultado
-
- 
+![Capturar](https://user-images.githubusercontent.com/47366440/147364607-68e28282-4a67-4fb1-8596-b39cf708ff6d.PNG)
