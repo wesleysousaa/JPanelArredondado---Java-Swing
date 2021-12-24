@@ -13,7 +13,7 @@ public class JPanelArredondado extends JPanel{
     
     /**
      * @param radius → Tamanho do arredondamento.
-     * @param bgColor → Cor de fundo(Cor do item que está atrás do JPanel).
+     * @param bgColor → Cor do painel.
      */
     public JPanelArredondado(int radius, Color bgColor) {
         super();
